@@ -6,8 +6,4 @@ const { writeFile, readFile } = require("fs");
         // $jsonInput = '';
         // $jsonOutput = '';
         // document.getElementById('result').innerHTML = a.value;
-       
-
-
-       
     }
